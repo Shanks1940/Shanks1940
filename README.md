@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shanks1940
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on a game
+- 📫 How to reach me on discord: shanks#1940
